@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$TONK – Bonk Goes Feral</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to bottom, #111827, #000000, #1f2937);
+      color: white;
+      text-align: center;
+      padding: 0;
+    }
+
+    header {
+      padding: 4rem 1rem 2rem;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 3rem;
+      font-weight: 900;
+      color: #f87171;
+      margin-top: 1rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+      color: #d1d5db;
+      max-width: 600px;
+      margin: 1rem auto;
+    }
+
+    .highlight {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #facc15;
+      margin-top: 1.5rem;
+      display: block;
+    }
+
+    .cta {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 3rem 1rem;
+    }
+
+    .gif {
+      max-width: 90%;
+      width: 350px;
+      border-radius: 1.5rem;
+      box-shadow: 0 0 40px rgba(255, 255, 255, 0.1);
+    }
+
+    .buttons {
+      margin-top: 2rem;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 0.75rem 2rem;
+      border-radius: 9999px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: 0.3s ease;
+    }
+
+    .btn-yellow {
+      background-color: #facc15;
+      color: black;
+    }
+
+    .btn-yellow:hover {
+      background-color: #eab308;
+    }
+
+    .btn-red {
+      background-color: #ef4444;
+      color: white;
+    }
+
+    .btn-red:hover {
+      background-color: #dc2626;
+    }
+
+    footer {
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #9ca3af;
+    }
+
+    @media (min-width: 768px) {
+      h1 {
+        font-size: 3.5rem;
+      }
+      p {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bonk was just a good boy...</h1>
+    <p>
+      Until he found the leftovers.<br>
+      Cold cuts. Moonlight. Midnight.
+      <span class="highlight">Now he’s not fetching — he’s feral.</span>
+    </p>
+    <h2>$TONK</h2>
+  </header>
+
+  <section class="cta">
+    <img 
+      src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" 
+      alt="Feral Bonk" 
+      class="gif"
+    />
+    <p>
+      The moon rose. The cold cuts glistened. Bonk snapped. He’s off the leash — and onto the blockchain.<br>Join the pack. Unleash the $TONK.
+    </p>
+    <div class="buttons">
+      <a href="https://dexscreener.com/" target="_blank" class="btn btn-yellow">📈 View Chart</a>
+      <a href="https://uniswap.org/" target="_blank" class="btn btn-red">💰 Buy $TONK</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 $TONK. Made in the moonlight. Feral forever.
+  </footer>
+
+</body>
+</html>
