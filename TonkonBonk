@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>$TONK | He TONKS Now</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #111;
+      color: #fff;
+      line-height: 1.6;
+    }
+    header {
+      background: #222;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #aaa;
+    }
+    .banner {
+      width: 100%;
+      max-height: 500px;
+      object-fit: cover;
+      display: block;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #00ff88;
+    }
+    .section p {
+      font-size: 1rem;
+      color: #ddd;
+    }
+    .tokenomics, .roadmap {
+      background-color: #1a1a1a;
+      margin-top: 20px;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 8px 0;
+      border-bottom: 1px solid #333;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      background: #00ff88;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #00cc6a;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      color: #666;
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>He was BONK.<br>Then you fed him after midnight.</h1>
+    <p>Now he doesn’t BONK... he <strong>TONKS</strong>.</p>
+    <p style="font-size: 1.4rem; margin-top: 10px;"><strong>$TONK</strong> is live on <a href="https://bonk.fun" style="color:#00ff88;" target="_blank">Bonk.fun</a></p>
+  </header>
+
+  <img src="banner.jpg" alt="TONK Banner" class="banner" />
+
+  <div class="section">
+    <h2>🔥 What Is $TONK?</h2>
+    <p>
+      Once a harmless little bonker, he was fed after midnight.  
+      Now he’s evolved into the ultimate memecoin beast.
+    </p>
+    <ul>
+      <li>🔥 Born from chaos</li>
+      <li>🧪 Engineered in the labs of Bonk.fun</li>
+      <li>🚀 Built for speed, spooks, and shitposting</li>
+    </ul>
+  </div>
+
+  <div class="section tokenomics">
+    <h2>📊 TONKnomics</h2>
+    <ul>
+      <li>Total Supply: 1,000,000,000</li>
+      <li>Launch: Stealth, no presale</li>
+      <li>Liquidity Burned 🔥</li>
+      <li>Ownership Renounced 🫡</li>
+      <li>100% Community Driven 💪</li>
+    </ul>
+  </div>
+
+  <div class="section roadmap">
+    <h2>🧠 Roadmap</h2>
+    <h3>PHASE 1 – THE FEEDING</h3>
+    <ul>
+      <li>Launch on Bonk.fun</li>
+      <li>Meme campaign explosion</li>
+      <li>TONK merch drops</li>
+    </ul>
+
+    <h3>PHASE 2 – THE TONKENING</h3>
+    <ul>
+      <li>Listings on CoinGecko, CMC</li>
+      <li>Partnerships with degens</li>
+      <li>First animated short</li>
+    </ul>
+
+    <h3>PHASE 3 – TONK WORLD DOMINATION</h3>
+    <ul>
+      <li>Game integration</li>
+      <li>Community voting DAO</li>
+      <li>The TONKverse</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🌐 Join the TONK Horde</h2>
+    <ul>
+      <li>🐤 <a href="https://x.com/tonktoken" target="_blank" style="color:#00ff88;">Follow on X (Twitter)</a></li>
+      <li>💬 <a href="https://t.me/tonktoken" target="_blank" style="color:#00ff88;">Join the Telegram</a></li>
+      <li>🌐 <a href="https://bonk.fun" target="_blank" style="color:#00ff88;">Bonk.fun</a></li>
+    </ul>
+    <a class="button" href="https://bonk.fun" target="_blank">Buy $TONK Now</a>
+  </div>
+
+  <footer>
+    &copy; 2025 TONK. All rights fed after midnight.
+  </footer>
+
+</body>
+</html>
